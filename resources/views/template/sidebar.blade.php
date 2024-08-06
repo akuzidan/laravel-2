@@ -14,7 +14,7 @@
           <img src="/admin/dist/img/user2-160x160.jpg" class="img-circle elevation-2" alt="User Image">
         </div>
         <div class="info">
-          <a href="#" class="d-block">Arif</a>
+          <a href="#" class="d-block">Zidan</a>
         </div>
       </div>
 
